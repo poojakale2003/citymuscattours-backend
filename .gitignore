@@ -1,0 +1,8 @@
+vendor/
+.env
+.htaccess
+*.log
+*.cache
+public/uploads/
+
+
